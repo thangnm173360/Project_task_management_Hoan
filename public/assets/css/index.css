@@ -103,5 +103,10 @@ a:hover {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    border-radius: 50px;
 }
+.image-index{
+    border-radius: 30px;
+    width: 90%;
+    min-width: 100px;
+}
+

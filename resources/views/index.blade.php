@@ -37,7 +37,8 @@
 						flexible, and rewarding way.</p>
 				</div>
 			</div>
-			<div class="illustration">
+			<div class="content">
+				<img src="/assets/img/bg11.jpg" class="image-index">
 			</div>
 		</div>
 	</div>
