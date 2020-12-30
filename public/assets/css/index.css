@@ -65,7 +65,7 @@ a:hover {
 }
 
 .introduce {
-    background-image: linear-gradient(180deg, green, yellow);
+    background-image: linear-gradient(180deg, green, #a5ff00);
     display: flex;
     flex-wrap: wrap;
     flex-grow: 1;
